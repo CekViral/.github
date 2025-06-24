@@ -11,12 +11,12 @@ a smart web application that helps you verify the authenticity of viral content 
 ## 2. Register a New Account
 Before using the CekViral feature, you need to create an account first.
 Steps:
-1. Click the "Register" button.
+1. Click the "DAFTAR" button.
 2. Fill in the registration form with the following data:
     - Active email
     - Username
     - Password
-3. Click the "Register" button.
+3. Click the "Daftar" button.
 4. If successful, you will be directed to the login page.
    
 ![Registration](images/regist.jpg)
@@ -24,9 +24,9 @@ Steps:
 ---
 ## 3. Login to Your Account
 Steps:
-1. Click the "Login" button.
+1. Click the "MASUK" button.
 2. Enter the email and password you registered.
-3. Click the "Login" button to access the application.
+3. Click the "Masuk" button to access the application.
 
 ![Login](images/login.jpg)
 
@@ -43,7 +43,7 @@ After logging in, you will enter the Home display. Here, you will see:
 CekViral makes it easy for you to verify content in just a few seconds!
 How to Use:
 1. Enter text or news URL into the column provided.
-2. Click the "Check" button.
+2. Click the "Cek" button.
 3. Wait a moment, the system will analyze the content automatically.
 
 ![Inference](images/inference.jpg)
