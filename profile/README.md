@@ -18,6 +18,7 @@ Steps:
     - Password
 3. Click the "Register" button.
 4. If successful, you will be directed to the login page.
+   
 ![Registration](images/regist.jpg)
 
 ---
@@ -26,11 +27,17 @@ Steps:
 1. Click the "Login" button.
 2. Enter the email and password you registered.
 3. Click the "Login" button to access the application.
+
+![Login](images/login.jpg)
+
 ---
 ## 4. Home Page
 After logging in, you will enter the Home display. Here, you will see:
 - Text input form or news link
 - Button to verify
+
+![Home](images/home.jpg)
+
 ---
 ## 5. Main Features: Instant Verification (Check Instantly)
 CekViral makes it easy for you to verify content in just a few seconds!
@@ -38,6 +45,9 @@ How to Use:
 1. Enter text or news URL into the column provided.
 2. Click the "Check" button.
 3. Wait a moment, the system will analyze the content automatically.
+
+![Inference](images/inference.jpg)
+
 ---
 ## 6. Verification Results
 After the analysis is complete, you will see the prediction results:
@@ -46,6 +56,8 @@ After the analysis is complete, you will see the prediction results:
 - NOT YET VERIFIED — The system is not yet sure and requires further examination.
 
 The results are displayed in the form of labels and probabilities (system confidence percentages) of the content.
+
+![Result](images/result.jpg)
 
 ---
 ## 🍿 Usage Tips 
