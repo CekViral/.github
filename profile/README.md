@@ -2,7 +2,11 @@
 
 Welcome to CekViral 👋
 
-a smart web application that helps you verify the authenticity of viral content automatically, quickly, and accurately. This guide will guide you step by step to use the features available on CekViral.
+A smart web application that helps you verify the authenticity of viral content automatically, quickly, and accurately.
+
+Have you ever come across a short video on social media or a news article on a website and wondered, “Is this really true?” Do you tend to trust the information right away or do you find yourself questioning how to check if it’s real or fake, especially when the content comes in different formats?
+
+Don’t worry, that’s exactly what CekViral is here for. Whether it's video, link, or text, CekViral makes it easy for anyone to verify viral content fast and confidently.
 
 ---
 ## 1. Access the CekViral Website
