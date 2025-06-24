@@ -1,6 +1,7 @@
 # Application Usage Guide CekViral: Smart Assistant for Viral Content Verification
 
 Welcome to CekViral 👋
+
 a smart web application that helps you verify the authenticity of viral content automatically, quickly, and accurately. This guide will guide you step by step to use the features available on CekViral.
 
 ---
