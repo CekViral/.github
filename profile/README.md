@@ -1,12 +1,52 @@
-## Hi there 👋
+# Application Usage Guide
+# CekViral: Smart Assistant for Viral Content Verification
 
-<!--
+Welcome to CekViral 👋
+a smart web application that helps you verify the authenticity of viral content automatically, quickly, and accurately. This guide will guide you step by step to use the features available on CekViral.
+---
+## 1. Access the CekViral Website
+1. Open your browser (Chrome, Edge, Firefox, Safari, etc.).
+2. Visit the official CekViral page: https://cek-viral-try.vercel.app/
+---
+## 2. Register a New Account
+Before using the CekViral feature, you need to create an account first.
+Steps:
+1. Click the "Register" button.
+2. Fill in the registration form with the following data:
+    - Active email
+    - Username
+    - Password
+3. Click the "Register" button.
+4. If successful, you will be directed to the login page.
+---
+## 3. Login to Your Account
+Steps:
+1. Click the "Login" button.
+2. Enter the email and password you registered.
+3. Click the "Login" button to access the application.
+---
+## 4. Home Page
+After logging in, you will enter the Home display. Here, you will see:
+- Text input form or news link
+- Button to verify
+---
+## 5. Main Features: Instant Verification (Check Instantly)
+CekViral makes it easy for you to verify content in just a few seconds!
+How to Use:
+1. Enter text or news URL into the column provided.
+2. Click the "Check" button.
+3. Wait a moment, the system will analyze the content automatically.
+---
+## 6. Verification Results
+After the analysis is complete, you will see the prediction results:
+- FACTS — Valid and trustworthy content.
+- HOAX — Content is indicated as false or misleading.
+- NOT YET VERIFIED — The system is not yet sure and requires further examination.
 
-**Here are some ideas to get you started:**
+The results are displayed in the form of labels and probabilities (system confidence percentages) of the content.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+## 🍿 Usage Tips 
+1. Enter clear and complete text for more accurate analysis results.
+2. Avoid inputting images/screenshots and only text or news links and videos from social media.
+3. Use this feature as an initial aid, not a substitute for manual verification from official sources.
