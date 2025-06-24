@@ -18,7 +18,7 @@ Steps:
     - Password
 3. Click the "Register" button.
 4. If successful, you will be directed to the login page.
-![Registration](image/regist.jpg)
+![Registration](images/regist.jpg)
 
 ---
 ## 3. Login to Your Account
